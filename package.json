@@ -1,8 +1,8 @@
 {
   "name": "is-is-is-is-odd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if a function is is-is-odd",
-  "homepage": "https://github.com/DZuz14/is-is-is-odd",
+  "homepage": "https://github.com/victorperin/is-is-is-is-odd",
   "repository": "victorperin/is-is-is-is-odd",
   "main": "index.js",
   "license": "MIT",
